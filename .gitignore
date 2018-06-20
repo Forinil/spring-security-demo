@@ -1,4 +1,6 @@
+### Maven ###
 /target/
+pom.xml.versionsBackup
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
